@@ -1,4 +1,4 @@
-# EndlessRunnerScripts
+# endless-runner-scripts
 
 
 Dependencies: spine-unity 3.6
