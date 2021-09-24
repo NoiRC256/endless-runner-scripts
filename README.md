@@ -6,7 +6,7 @@ Dependencies: spine-unity 3.6
 
 Game Manager
 ------------
-GamaManager / MainMenuManager
+GameManager / MainMenuManager
 
 ScoreManager
 
